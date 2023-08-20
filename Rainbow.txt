@@ -8,4 +8,6 @@ Blue
 Indigo
 Purple
 
-Anonymous user from laptop
+x Anonymous user from laptop
+
+-> I was already logged in on my laptop!
