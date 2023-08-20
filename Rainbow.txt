@@ -5,6 +5,7 @@ Orange
 Yellow
 Green
 Blue
+--Indigo
 Purple
 
 Change #1
