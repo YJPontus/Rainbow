@@ -5,11 +5,11 @@ Orange
 Yellow
 Green
 Blue
---Indigo
+Indigo
 Purple
 
 Change #1
 
 Change #2
 
-Someone's forking...
+Forking guy changed username!
